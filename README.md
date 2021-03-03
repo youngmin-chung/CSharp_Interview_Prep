@@ -80,28 +80,28 @@ I = (int) o; // unboxing
 
 15. What are the .NET page life-cycle events?
 11 steps are PIIPL CLPS RU (People clips are you?)
-1.	PreInit
-2.	Init
-3.	InitComplete
-4.	PreLoad
-5.	Load
-6.	Control events
-7.	LoadComplete
-8.	PreRender
-9.	SaveStatecomplete
-10.	Render
-11.	Unload
+ - PreInit
+ - Init
+ - InitComplete
+ - PreLoad
+ - Load
+ - Control events
+ - LoadComplete
+ - PreRender
+ - SaveStatecomplete
+ - Render
+ - Unload
 
 16. What are the .NET page life-cycle stages?
 8 steps are PSIL VERU
-1.	Page request
-2.	Start
-3.	Initialization
-4.	Load
-5.	Validate
-6.	Event handling
-7.	Render
-8.	Unload
+ - Page request
+ - Start
+ - Initialization
+ - Load
+ - Validate
+ - Event handling
+ - Render
+ - Unload
 
 17. Describe the difference between ASP.NET and ASP.NET MVC
 ASP.NET is a web development framework

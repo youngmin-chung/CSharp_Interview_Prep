@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticDemo", "StaticDemo\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesDemo", "TypesDemo\TypesDemo.csproj", "{52A84C2D-5824-4667-9499-A40998D1D44A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitDemo", "AsyncAwaitDemo\AsyncAwaitDemo.csproj", "{18999631-5711-4DA0-9B14-3342E0297CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskRunDemo", "TaskRunDemo\TaskRunDemo.csproj", "{288FC6DE-4B49-4561-8A06-890580FEC108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{52A84C2D-5824-4667-9499-A40998D1D44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52A84C2D-5824-4667-9499-A40998D1D44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52A84C2D-5824-4667-9499-A40998D1D44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18999631-5711-4DA0-9B14-3342E0297CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18999631-5711-4DA0-9B14-3342E0297CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18999631-5711-4DA0-9B14-3342E0297CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18999631-5711-4DA0-9B14-3342E0297CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288FC6DE-4B49-4561-8A06-890580FEC108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288FC6DE-4B49-4561-8A06-890580FEC108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288FC6DE-4B49-4561-8A06-890580FEC108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288FC6DE-4B49-4561-8A06-890580FEC108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
